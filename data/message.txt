@@ -1,0 +1,29 @@
+[
+    {
+        "data": "呵呵",
+        "id": "JdfL6dGQ62S3Ass8",
+        "type": 0,
+        "user_id": "wBOHz3vx1wlf"
+    },
+    {
+        "data": "嘿嘿 ，\n成功了",
+        "id": "AMPQz39RfDaCYMTG",
+        "type": 2,
+        "type_id": "0ltc6SsH",
+        "user_id": "wBOHz3vx1wlf"
+    },
+    {
+        "data": "大家好",
+        "id": "7Mr8kYRHSGAcUSbF",
+        "type": 6,
+        "type_id": "rFlfFFhY",
+        "user_id": "wBOHz3vx1wlf"
+    },
+    {
+        "data": "真的号",
+        "id": "EQFbqNm4s5Ji43W2",
+        "type": 6,
+        "type_id": "rFlfFFhY",
+        "user_id": "wBOHz3vx1wlf"
+    }
+]
